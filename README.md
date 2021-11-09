@@ -6,8 +6,8 @@ This is a fully functional, authenticated and authorized API Server.
 
 ## Links
 
-* Heroku:
-* PR: 
+* Heroku: https://hasnaa-auth-api.herokuapp.com/
+* PR: https://github.com/hasnaa38/auth-api/pull/1
 
 ## Endpoints
 
