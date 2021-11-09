@@ -28,8 +28,8 @@ app.use(logger);
 
 // Routes
 app.use(authRoutes);
-app.use('/api/v1', v1Routes);
-app.use(v2Routes);
+app.use('/v1', v1Routes);
+app.use('/v2', v2Routes);
 
 app.get('/', (req, res) => {
   try {
